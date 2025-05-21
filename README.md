@@ -1,88 +1,99 @@
-# Hi there, I'm [Your Name] 👋
+# 💘 CINTA SEGITIGA 💘
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-linkedin)
+![Status](https://img.shields.io/badge/STATUS-COMPLICATED-red)
+![Version](https://img.shields.io/badge/VERSION-1.0.0-blue)
+![Heartbreaks](https://img.shields.io/badge/HEARTBREAKS-INFINITE-purple)
 
-## About Me ✨
+<div align="center">
+  
+  ### *"Aku suka kamu, kamu suka orang"*
+  
+  <br>
+  
+  ⭐ Sebuah perjalanan cinta yang tak bertemu ujung ⭐
+</div>
 
-- 🔭 I'm currently working on [Current Project]
-- 🌱 I'm currently learning [Technologies you're learning]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [your.email@example.com]
-- ⚡ Fun fact: [Something interesting about you]
+---
 
-## Tech Stack 🛠️
+## 📱 Tentang Proyek Ini
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+Proyek ini adalah refleksi digital tentang dinamika cinta yang tak seimbang. Sebuah eksplorasi tentang rasa yang tak terbalas dalam bentuk yang paling murni.
 
-## GitHub Stats 📊
+```
+Aku ───➤ Kamu ───➤ Orang Lain
+ ^                    │
+ │                    │
+ └────────────────────┘
+     (tidak pernah kembali)
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 🔥 Fitur Utama
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
+- **Penantian Abadi**: Tersedia mode "menunggu" yang bisa berlangsung selamanya
+- **Notifikasi Harapan Palsu**: Memberikan dorongan semangat yang sia-sia secara berkala
+- **Galeri Kenangan**: Tempat menyimpan momen-momen yang hanya berarti untuk satu pihak
+- **Mode Puitis**: Penghasil kutipan galau otomatis untuk status media sosial
 
-## Top Languages 💻
+## 🚀 Cara Menggunakan
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+1. **Install Perasaan**
+   ```
+   npm install perasaan-bertepuk-sebelah-tangan
+   ```
 
-## Projects 🚀
+2. **Mulai Berharap**
+   ```javascript
+   import { Harapan } from 'perasaan';
+   
+   const cintaku = new Harapan();
+   cintaku.start(); // Memulai siklus harapan dan kekecewaan
+   ```
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <p align="center">
-        <a href="https://github.com/your-username/project1" target="_blank">
-          <img src="https://via.placeholder.com/500x300" width="100%" alt="Project 1"/>
-        </a>
-        <span> <a href="https://github.com/your-username/project1" target="_blank">Code</a> | 
-          <a href="https://your-project1-demo.com" target="_blank">Live Demo</a>
-        </span>
-        <p>Short description of the project - what it does, technologies used, etc.</p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <p align="center">
-        <a href="https://github.com/your-username/project2" target="_blank">
-          <img src="https://via.placeholder.com/500x300" width="100%" alt="Project 2"/>
-        </a>
-        <span> <a href="https://github.com/your-username/project2" target="_blank">Code</a> | 
-          <a href="https://your-project2-demo.com" target="_blank">Live Demo</a>
-        </span>
-        <p>Short description of the project - what it does, technologies used, etc.</p>
-      </p>
-    </td>
-  </tr>
-</table>
+3. **Nikmati Sakitnya**
+   ```javascript
+   cintaku.on('diabaikan', () => {
+     console.log('Sakit tapi ku tahan...');
+   });
+   ```
 
-## Recent Activity ⚡
+## 📊 Grafik Perasaan
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+| Fase | Kamu | Dia | Aku |
+|------|------|-----|-----|
+| Awal | Biasa | Bahagia | Berbunga |
+| Tengah | Bingung | Mesra | Berharap |
+| Akhir | Pergi | Bersatu | 💔 |
 
-## Connect With Me 🌐
+## 🎭 Kontributor
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://your-personal-website.com"><img src="https://img.shields.io/badge/-Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-</p>
+- **Hati**: Menyumbangkan seluruh perasaan
+- **Otak**: Mencoba memberi logika (tidak didengarkan)
+- **Mata**: Rajin mencari status hubungan mereka
+- **Tangan**: Tetap mengirim chat meski tidak dibalas
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## 🌙 Filosofi
+
+> "Mencintai adalah memberikan seseorang kekuatan untuk menyakitimu, tapi tetap percaya bahwa mereka tidak akan melakukannya."
+>
+> "Bagaimana bisa aku berhenti mencintaimu kalau kau adalah alasanku tersenyum setiap pagi?"
+
+## ⚠️ Disclaimer
+
+Proyek ini mungkin mengakibatkan:
+- Playlist lagu galau yang bertambah panjang
+- Konsumsi es krim berlebihan di malam hari
+- Hujan di dalam hati meski cuaca cerah
+- Penulisan puisi dengan kualitas meragukan
+
+## 📜 Lisensi
+
+Bebas digunakan oleh siapapun yang sedang merasakan cinta tak berbalas.
+Copyright © 2025 Hati Yang Terluka.
+
+---
+
+<div align="center">
+  <h3>Dibuat dengan 💔 dan banyak air mata</h3>
+  
+  [Twitter](https://twitter.com/cintasegitiga) • [Instagram](https://instagram.com/patah.hati) • [TikTok](https://tiktok.com/@menunggu_keajaiban)
+</div>
