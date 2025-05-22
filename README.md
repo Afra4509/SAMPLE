@@ -1,192 +1,240 @@
 <div align="center">
 
-# 👨‍💻 Afra Fadhma Dinata
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Afra%20Fadhma%20Dinata&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Mobile+App+Architect+%F0%9F%93%B1;Innovation+%26+Technology+Enthusiast+%F0%9F%92%A1" alt="Typing Animation"/>
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer+%26+AI+Engineer;%F0%9F%A4%96+Machine+Learning+%26+Mobile+Architect;%F0%9F%92%A1+Innovation+Enthusiast+%26+Tech+Leader;%E2%9C%A8+Turning+Ideas+Into+Digital+Reality" alt="Dynamic Typing"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<!-- Profile GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4b80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-### 🌟 **About Me**
+## 🌟 **Welcome to My Digital Universe** 🌟
+
+</div>
+
+<table>
+<tr>
+<td width="55%">
+
+### 🚀 **About Me**
 
 ```typescript
-const afra = {
-    pronouns: "He/Him",
-    location: "Indonesia 🇮🇩",
-    currentFocus: "AI & Mobile Development",
-    learning: ["Machine Learning", "Cloud Architecture", "DevOps"],
-    hobbies: ["Coding", "Tech Innovation", "Open Source"],
-    funFact: "I turn coffee into code ☕️ → 💻"
-};
+class Developer {
+  name: string = "Afra Fadhma Dinata";
+  location: string = "Indonesia 🇮🇩";
+  role: string = "Full Stack Developer & AI Engineer";
+  
+  currentlyWorking: string[] = [
+    "🤖 AI-Powered Mobile Applications",
+    "🌐 Scalable Web Architectures", 
+    "📊 Machine Learning Solutions",
+    "🔥 Innovation Projects"
+  ];
+  
+  expertise: string[] = [
+    "Mobile Development (Flutter/React Native)",
+    "AI/ML Engineering (TensorFlow/PyTorch)",
+    "Full Stack Development (MERN/MEAN)",
+    "Cloud Architecture (AWS/GCP)",
+    "DevOps & CI/CD Pipelines"
+  ];
+  
+  currentlyLearning: string[] = [
+    "Advanced Deep Learning",
+    "Kubernetes & Microservices",
+    "Blockchain Development",
+    "Quantum Computing Basics"
+  ];
+  
+  funFact: string = "I debug with coffee ☕ and deploy with passion 🚀";
+  
+  getMotivation(): string {
+    return "Building tomorrow's technology today! 💫";
+  }
+}
 ```
 
-🎯 **Current Mission:** Building intelligent applications that solve real-world problems
+### 🎯 **Current Mission**
+> *Creating intelligent, scalable solutions that bridge the gap between cutting-edge AI and seamless user experiences*
 
-🚀 **Vision:** Bridging the gap between cutting-edge AI and user-friendly mobile experiences
-
-💡 **Philosophy:** *"Innovation happens when creativity meets technology"*
-
-<br clear="right"/>
-
----
-
-## 🎨 **Technology Arsenal**
+</td>
+<td width="45%">
 
 <div align="center">
 
-### **💻 Programming Languages**
-<br>
+### 🏆 **Achievements**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=Afra4509&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" width="100%"/>
 
-### **🚀 Frameworks & Libraries**
-<br>
+### 📊 **Quick Stats**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=Afra4509&show_icons=true&theme=react&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=15" width="100%"/>
 
-### **🛠️ Tools & Platforms**
-<br>
+</div>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80">
+
+## 🛠️ **Technology Stack & Expertise**
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,java,kotlin,cpp,rust,go&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,fastapi,django,flask,nestjs&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikit,mongodb,postgresql,redis,firebase,supabase&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,github,git,linux&theme=dark" />
+
+### **🎨 Design & Tools**
+<img src="https://skillicons.dev/icons?i=figma,photoshop,blender,unity,vscode,androidstudio,xcode,postman,notion&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics Dashboard**
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+
+## 📈 **GitHub Analytics Dashboard**
+
+</div>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-### **🔥 Performance Metrics**
-
+<!-- Main Stats Row -->
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Afra4509&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=00F5FF" alt="GitHub Stats" width="100%"/>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=Afra4509&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&custom_title=⚡%20GitHub%20Statistics&border_radius=15"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afra4509&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="100%"/>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afra4509&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=10&custom_title=🚀%20Most%20Used%20Languages&border_radius=15"/>
     </td>
   </tr>
 </table>
 
-### **⚡ Contribution Streak**
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Afra4509&theme=react&hide_border=true&border_radius=15&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" width="500"/>
 
-<img src="https://streak-stats.demolab.com?user=Afra4509&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="600"/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afra4509&custom_title=📊%20Contribution%20Activity%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area_color=00d9ff&area=true&hide_border=true&radius=15" width="100%"/>
 
-### **🏆 Achievement Showcase**
-
-<img src="https://github-profile-trophy.vercel.app/?username=Afra4509&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophy Collection" width="800"/>
-
-### **📈 Contribution Activity**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afra4509&custom_title=Afra's%20Contribution%20Graph&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area_color=00F5FF&area=true&hide_border=true&radius=15" alt="Contribution Graph" width="100%"/>
+<!-- Metrics -->
+<img src="https://metrics.lecoq.io/Afra4509?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FJakarta" width="100%"/>
 
 </div>
 
 ---
 
-## 🎯 **Featured Projects Showcase**
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80">
+
+## 🎯 **Featured Projects Showcase**
 
 </div>
 
+<!-- Project Cards with Enhanced Design -->
 <table>
 <tr>
 <td width="50%">
+<div align="center">
 
-### 🍟 **Gorengan Classification App**
-[![Repo](https://img.shields.io/badge/Repository-00F5FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afra4509/aplikasi-klasifikasi-gorengan)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Afra4509&repo=aplikasi-klasifikasi-gorengan&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&border_radius=15)](https://github.com/Afra4509/aplikasi-klasifikasi-gorengan)
 
-**AI-Powered Food Recognition System**
+</div>
+
+### 🍟 **AI Food Classification System**
+```yaml
+Description: Revolutionary AI-powered Indonesian food recognition
+Technology: Deep Learning + Computer Vision + Flutter
+Features:
+  - 🎯 96%+ accuracy classification
+  - 📱 Real-time image processing
+  - 🤖 Custom CNN architecture
+  - 🔥 Edge computing optimization
+Impact: Empowering food industry with AI innovation
 ```
-🤖 Deep Learning & Computer Vision
-📱 Flutter Mobile Application  
-🎯 96% Classification Accuracy
-🔥 Real-time Image Processing
-```
-
-**Tech Stack:** `Python` `TensorFlow` `Flutter` `Firebase`
 
 </td>
 <td width="50%">
+<div align="center">
 
-### 🥗 **Nutritrack Anti-Stunting App**
-[![Repo](https://img.shields.io/badge/Repository-00F5FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afra4509/nutritrack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Afra4509&repo=nutritrack&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&border_radius=15)](https://github.com/Afra4509/nutritrack)
 
-**Health & Nutrition Monitoring Platform**
+</div>
+
+### 🥗 **Nutritrack Health Platform**
+```yaml
+Description: Comprehensive anti-stunting health monitoring system
+Technology: Flutter + Node.js + AI Analytics + MongoDB
+Features:
+  - 📊 Advanced growth analytics
+  - 💡 AI-powered nutrition recommendations
+  - 📈 Real-time health monitoring
+  - 🏥 Healthcare provider integration
+Impact: Improving child health outcomes through technology
 ```
-📊 Child Growth Analytics
-💡 Smart Nutrition AI Recommendations  
-📈 Real-time Health Monitoring
-🏥 Healthcare Integration
-```
-
-**Tech Stack:** `Flutter` `Node.js` `MongoDB` `AI/ML`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
+<div align="center">
 
-### 🌐 **Smada Prank Device**
-[![Repo](https://img.shields.io/badge/Repository-00F5FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afra4509/PRANK-WIFI-SMADA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Afra4509&repo=PRANK-WIFI-SMADA&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&border_radius=15)](https://github.com/Afra4509/PRANK-WIFI-SMADA)
 
-**Network Security Educational Tool**
+</div>
+
+### 🌐 **Cybersecurity Education Tool**
+```yaml
+Description: Educational network security demonstration device
+Technology: C++ + Arduino + IoT + Network Programming
+Features:
+  - 🔒 WiFi security demonstrations
+  - 🎓 Ethical hacking education
+  - ⚡ Real-time network analysis
+  - 🛡️ Security awareness training
+Impact: Enhancing cybersecurity education and awareness
 ```
-🔒 WiFi Security Demonstration
-🎓 Cybersecurity Awareness
-⚡ IoT & Network Programming
-🛡️ Ethical Hacking Education
-```
-
-**Tech Stack:** `C++` `Arduino` `IoT` `Networking`
 
 </td>
 <td width="50%">
+<div align="center">
 
-### 🔬 **Thermodynamics Calculator**
-[![Repo](https://img.shields.io/badge/Repository-00F5FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afra4509/termodinamika)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Afra4509&repo=termodinamika&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&border_radius=15)](https://github.com/Afra4509/termodinamika)
 
-**Scientific Computing Application**
+</div>
+
+### 🔬 **Scientific Computing Suite**
+```yaml
+Description: Advanced thermodynamics calculation platform
+Technology: Python + NumPy + Matplotlib + Scientific Computing
+Features:
+  - 🧮 Complex physics calculations
+  - 📐 Interactive problem solving
+  - 📊 Data visualization
+  - ⚡ High-performance algorithms
+Impact: Streamlining engineering education and research
 ```
-🧮 Advanced Physics Calculations
-📐 Interactive Problem Solving
-🎯 Engineering Education Tool
-⚡ High-Performance Computing
-```
-
-**Tech Stack:** `Python` `NumPy` `Matplotlib` `Tkinter`
 
 </td>
 </tr>
@@ -194,46 +242,76 @@ const afra = {
 
 <div align="center">
 
-### 🎮 **Educational Quiz App - Dolanan Cerdas**
-[![Repo](https://img.shields.io/badge/Repository-00F5FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afra4509/dolanan-cerdas-smanike)
+### 🎮 **Educational Gaming Platform**
 
-**Gamified Learning Platform**
-```
-🎯 Interactive Quiz System  |  🏆 Gamification Elements  |  📚 Educational Content Management  |  👥 Multi-user Support
-```
-**Tech Stack:** `Flutter` `Firebase` `Dart` `Cloud Functions`
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Afra4509&repo=dolanan-cerdas-smanike&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&border_radius=15)](https://github.com/Afra4509/dolanan-cerdas-smanike)
+
+**Gamified Learning Experience** | `Flutter` `Firebase` `Cloud Functions` `Real-time Database`
+
+*Interactive quiz platform with advanced gamification, multi-user support, and comprehensive educational content management*
 
 </div>
 
 ---
 
-## 🌐 **Connect & Collaborate**
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+
+## 🎵 **Currently Coding To**
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=00d9ff)](https://open.spotify.com/user/i4kfnw7moy6h19bmrkwliqcnn?si=HnCn74niRveE7TLN-Qh6mg)
+
+*Click above to check out my coding playlist! 🎧*
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80">
 
-### **Let's Build Something Amazing Together!**
+## 🌐 **Let's Connect & Collaborate**
 
-<br>
+### **Professional Networks**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/afra-fadhma-dinata)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:afrafadmadinata@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117)](https://github.com/Afra4509)
+
+### **Social Media**
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/risolkecoa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/afrafadhma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:afrafadmadinata@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139)](https://github.com/Afra4509)
-
-<br>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954)](https://open.spotify.com/user/i4kfnw7moy6h19bmrkwliqcnn?si=HnCn74niRveE7TLN-Qh6mg)
 
 ### **💼 Open for Opportunities**
 
-```
-🚀 Full-Stack Development Projects
-🤖 AI/ML Consulting & Development  
-📱 Mobile App Architecture & Design
-🎯 Tech Leadership & Mentoring
-💡 Innovation & Research Collaboration
-```
+<table align="center">
+<tr>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"><br>
+<strong>Full-Stack Development</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"><br>
+<strong>AI/ML Engineering</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"><br>
+<strong>Mobile Development</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
+<strong>Tech Leadership</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"><br>
+<strong>Innovation Consulting</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -241,52 +319,68 @@ const afra = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80">
 
-### **📈 Profile Analytics**
+## 📊 **Profile Analytics**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Afra4509&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Afra4509?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0D1117)](https://github.com/Afra4509?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Afra4509?label=TOTAL%20STARS&style=for-the-badge&color=00F5FF&labelColor=0D1117)](https://github.com/Afra4509)
+![Profile Views](https://komarev.com/ghpvc/?username=Afra4509&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Afra4509?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/Afra4509?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Afra4509?label=TOTAL%20STARS&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/Afra4509)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Afra4509/Afra4509?label=MONTHLY%20COMMITS&style=for-the-badge&color=00d9ff&labelColor=0d1117)
 
-### **💭 Developer Quote**
+### **💭 Developer Wisdom**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20poetry%20written%20in%20logic&author=Afra%20Fadhma%20Dinata" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs" alt="Quote"/>
+
+### **🏅 Coding Stats**
+
+<!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/018e4f93-0040-4a77-ab3c-6d37b0c2c5e8.svg?style=for-the-badge)](https://wakatime.com/@018e4f93-0040-4a77-ab3c-6d37b0c2c5e8)
+<!--END_SECTION:waka-->
+
+</div>
 
 ---
 
-### **🎵 Currently Coding To**
+<div align="center">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=afra4509&count=1&unique=true)](https://open.spotify.com)
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### **⭐ Thank you for visiting my profile!**
+### 🚀 **Thank You for Visiting!**
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
 <br>
 <strong>Innovation</strong>
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 <br>
-<strong>Quality</strong>
+<em>Pushing boundaries</em>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
 <br>
 <strong>Excellence</strong>
+<br>
+<em>Quality code</em>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+<br>
+<strong>Impact</strong>
+<br>
+<em>Real-world solutions</em>
 </td>
 </tr>
 </table>
 
-*"Building the future, one innovative solution at a time"* 🚀
+---
 
-**Made with ❤️ by [Afra Fadhma Dinata](https://github.com/Afra4509)**
+### ✨ *"Code is poetry, bugs are just unexpected plot twists"* ✨
+
+**🌟 Building tomorrow's technology today | Made with ❤️ by [Afra Fadhma Dinata](https://github.com/Afra4509) 🌟**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4b80-b561-0d28506553ee.gif" width="100%">
 
 </div>
